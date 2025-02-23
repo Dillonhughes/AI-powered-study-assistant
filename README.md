@@ -1,1 +1,1 @@
-# AI-powered-study-assistant
+# AI-Powered Study Assistant
